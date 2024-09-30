@@ -1,5 +1,5 @@
 # Git_Learn
 
-Let's learn Sun*'s Gitflow!
+Let's learn Sun\* Gitflow!
 
-New changes
+Add something 💯
